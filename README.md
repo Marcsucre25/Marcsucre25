@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @MARCSUCRE25
+- 👋 HOLA MI NOMBRE ES:
 
 -MARCOS MOREIRA
 
 MIS DATOS
 
 -Nombres: Marcos Mauricio
+
 -Apellidos: Moreira Mala
+
 -Edad: 21 años
+
 -Estoy estudiante Tecnología en software, estoy cursando el 3er semestre de la carrera.
 
 <!---
